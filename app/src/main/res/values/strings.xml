@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstClass_app</string>
+    <string name="registration_form">Registration Form</string>
+
+    <string-array name="College_Array">
+        <item>Business and Economics College</item>
+        <item>IT College</item>
+        <item>Literature College</item>
+        <item>Pharmacy College</item>
+    </string-array>
+</resources>
